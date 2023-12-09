@@ -2,6 +2,24 @@
 Personal modpack for Lethal Company.  
 All rights held by the respective mod authors.
 
+## Mod List
+| Mod/Plugin       | Version | Source                                                                                  |
+| ---------------- |:-------:|:---------------------------------------------------------------------------------------:|
+| BepInEx          | 5.4.22  | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)                       |
+| FlashlightToggle | 1.3.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)  |
+| HelmetCamera     | 2.1.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)      |
+| HotbarTweaks     | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Straky/HotbarTweaks/)         |
+| LC\_API          | 2.1.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                 |
+| LateCompany      | 1.0.4   | [thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)     |
+| LetMeLookDown    | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)      |
+| Mimics           | 1.1.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                 |
+| MoreCompany      | 1.7.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) |
+| MoreEmotes       | 1.1.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)         |
+| MoreSuits        | 1.3.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)             |
+| ShipLoot         | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)           |
+
+## Installation Instructions
+
 #### DOWNLOAD:
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
