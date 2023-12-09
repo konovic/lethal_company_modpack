@@ -1,0 +1,60 @@
+v0.4.1
++HotbarTweaks
+
+Config:
+Added pregenerated configs for all included mods (normally only generated on first launch)
+
+HotbarTeaks
+Default values perform exactly like the vanilla game
+Change InvertDirection to `true` to reverse the scroll wheel direction for the hotbar
+Note: Re-emphasizing that lower values for ScrollSpeed increase the scrolling speed e.g. 0.2 is faster than 0.3 (default value)
+
+Mimics
+	Difficulty Level 4 -> 5
+Added a note about what the difficulty level actually represents
+I'm banking on nobody actually reading this, if you do don't spoil it for anyone else and act like you never saw it yourself :)
+
+Notes: Minor update to README
+---
+
+v0.4.0
+-AdditionalSuits
++MoreSuits
++MoreEmotes
++LetMeLookDown
++Mimics
+
+Version Bumps:
+MoreCompany	-> 1.7.0
+HelmetCamera	-> 2.1.3
+LC_API? (Not sure if v0.3 used 2.1.0 or 2.1.1)
+
+Config:
+Changed default values for HelmetCamera
+	monitorResolution  0 ->  3
+	renderDistance	  20 -> 50
+Looks better than default and should have minimal performance impact
+
+Notes:
+Added minor revision placeholder for when I have to remove a mod :^)
+Added this file (modpack_changelog.txt)
+Added modpack_versions.txt	-Versions for individual mods to track what needs updating
+Added MODPACK_README.txt	-Installation and updating instructions
+
+---
+
+v0.3
+-BiggerLobby
++MoreCompany
++HelmetCamera
++FlashlightToggle
++LateCompany
++ShipLoop
+
+---
+
+v0.2
+Initial release
++BepInEx
++LC_API
++BiggerLobby
