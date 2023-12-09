@@ -1,5 +1,5 @@
 ## Lethal Company Modpack
-Personal modpack for Lethal Company.  
+Personal modpack for Lethal Company update 44.  
 All rights held by the respective mod authors.
 
 ## Mod List
@@ -17,15 +17,23 @@ All rights held by the respective mod authors.
 | MoreEmotes       | 1.1.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)         |
 | MoreSuits        | 1.3.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)             |
 | ShipLoot         | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)           |
+| Skinwalkers      | 1.0.7   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)   |
 
 ## Installation Instructions
+
+#### LETHAL COMPANY:
+Ensure you're running the [previous] branch on Steam (update 44).
+1. Open Steam
+2. Right click Lethal Company and select Properties
+3. Under the `Betas` tab, select `previous - The previous version` and update the game
 
 #### DOWNLOAD:
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
 #### INSTALL:
 This guide assumes you're using a fresh install of Lethal Company. If you have a previous set of mods installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
-1. Locate and open the Lethal Company installation folder (default: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`).
+1. Locate and open the Lethal Company installation folder (default: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`).  
+Alternatively, open Steam, right click Lethal Company, go to Manage -> Browse local files)
 2. Unzip/open `lethal_company_modpack-*.zip`.
 3. Move the contents of the `modpack` folder into the `Lethal Company` folder from step 1.
 4. (Optional) Configure each mod by editing the config files in `BepInEx/config`.

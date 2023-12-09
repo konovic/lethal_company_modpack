@@ -1,8 +1,15 @@
+v1.1.0
++Skinwalkers
+
+Config:
+Skinwalkers
+Voices only enabled for Bracken, all others disabled
+Changed time between voices to 4x original setting
+	VoiceLineFrequency 1 -> 0.25
+---
 v1.0.0
 Initial github release
-
 ---
-
 v0.4.1
 +HotbarTweaks
 
@@ -21,7 +28,6 @@ I'm banking on nobody actually reading this, if you do don't spoil it for anyone
 
 Notes: Minor update to README
 ---
-
 v0.4.0
 -AdditionalSuits
 +MoreSuits
@@ -45,9 +51,7 @@ Added minor revision placeholder for when I have to remove a mod :^)
 Added this file (modpack_changelog.txt)
 Added modpack_versions.txt	-Versions for individual mods to track what needs updating
 Added MODPACK_README.txt	-Installation and updating instructions
-
 ---
-
 v0.3
 -BiggerLobby
 +MoreCompany
@@ -55,9 +59,7 @@ v0.3
 +FlashlightToggle
 +LateCompany
 +ShipLoop
-
 ---
-
 v0.2
 Initial release
 +BepInEx
