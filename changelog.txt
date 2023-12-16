@@ -1,3 +1,23 @@
+v2.1.0
+Updated mods:
+LC_API      -> 2.2.0
+LateCompany -> 1.0.6
+Mimics      -> 2.2.0
+MoreCompany -> 1.7.2
+MoreEmotes  -> 1.2.1
+MoreSuits   -> 1.4.1
+
+Config:
+Mimics
+Default weights for number of spawns were changed
+Added options for Easy Mode and Color Blind Mode (default: false)
+
+MoreEmotes
+Added keybinds for new emotes, emote wheel
+
+MoreSuits
+Added options for fitting more suits onto the rack
+---
 v2.0.0
 Lethal Company v45 update
 
