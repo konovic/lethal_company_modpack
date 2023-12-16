@@ -29,7 +29,7 @@ Lethal Company\doorstop_config.ini
 Lethal Company\winhttp.dll
 Lethal Company\<all other base game files>
 ```
-4. (Optional) Configure each mod by editing the config files in `BepInEx/config`.
+4. (Optional) Configure each mod by editing the config files in `BepInEx\config`.
 5. For Proton/Steamdeck users only: BepInEx works with Proton by adding  
 `WINEDLLOVERRIDES="winhttp.dll=n,b" %command%`  
 to Lethal Company's Steam launch options
