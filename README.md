@@ -21,7 +21,14 @@ This guide assumes you're using a fresh install of Lethal Company (or updating t
 This can also be located by opening Steam, right clicking on Lethal Company, scrolling over `Manage` and clicking on `Browse Local Files`
 2. Unzip/open `lethal_company_modpack-<version>.zip`.
 3. Move the contents of the `lethal_company_mods-<version>\modpack` folder into the `Lethal Company` folder from step 1.  
-This should only be the folder `BepInEx` and the two files `doorstop_config.ini` and `winhttp.dll`. These go directly into the `Lethal Company` folder, not a subfolder.
+This should only be the folder `BepInEx` and the two files `doorstop_config.ini` and `winhttp.dll`. These go directly into the `Lethal Company` folder, not a subfolder.  
+Your `Lethal Company` folder should look like this:  
+```
+Lethal Company\BepInEx
+Lethal Company\doorstop_config.ini
+Lethal Company\winhttp.dll
+Lethal Company\<all other base game files>
+```
 4. (Optional) Configure each mod by editing the config files in `BepInEx/config`.
 5. For Proton/Steamdeck users only: BepInEx works with Proton by adding  
 `WINEDLLOVERRIDES="winhttp.dll=n,b" %command%`  
