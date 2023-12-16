@@ -9,7 +9,8 @@ Now updated for v45. If you previously opted into the `previous - The previous v
 1. Open Steam
 2. Right click Lethal Company and select `Properties`
 3. Under the `Betas` tab, select `None` and update the game
-These steps can be performed again to select the `previous - The previous version` branch for [playing on v40](https://github.com/konovic/lethal_company_modpack/releases/tag/v1.1.0)  
+These steps can be performed again to select the `previous - The previous version` branch for [playing on v40](https://github.com/konovic/lethal_company_modpack/releases/tag/v1.1.0)
+ 
 See the [release notes](https://github.com/konovic/lethal_company_modpack/releases/latest) for information about changes to mod configurations when updating this pack.
 
 #### DOWNLOAD:
