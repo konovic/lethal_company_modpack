@@ -40,7 +40,7 @@ to Lethal Company's Steam launch options.
 1. Locate and open the Lethal Company installation folder (default: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`).  
 This can also be located by opening Steam, right clicking on Lethal Company, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Skip this step if you have not modified any files in `BepInEx\config`.
-    1. Backup your `BepInEx\config` folder to a temporary safe location e.g. the desktop (failing to do so will revert all configs to their default values).
+    1. Backup your `BepInEx\config` folder to a temporary safe location e.g. the desktop (failing to do so will revert some configs to their default values).
 3. Skip this step if you have not modified any files in `BepInEx\plugins`.
     1. Backup any folders with manual modifications, for example `BepInEx\plugins\moresuits` if you added a `!less-suits.txt` file.
 4. Delete the existing `BepInEx` folder and everything within it.
@@ -61,7 +61,7 @@ Note: I'll try to make a note in the `Releases` section if I notice that a mod c
 | LetMeLookDown    | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)      |
 | Mimics           | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                 |
 | MoreCompany      | 1.7.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) |
-| MoreEmotes       | 1.2.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)         |
+| MoreEmotes       | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)         |
 | MoreSuits        | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)             |
 | ShipLoot         | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)           |
 | Skinwalkers      | 2.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)   |

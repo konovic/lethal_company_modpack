@@ -1,3 +1,11 @@
+v2.1.1
+Updated mods:
+MoreEmotes -> 1.2.2
+
+Notes:
+Removed configs that don't differ from the default auto-generated configs
+Updated MoreEmotes, corrected an issue where modpack v2.1.0 was actually using v1.2.0 of the mod
+---
 v2.1.0
 Updated mods:
 LC_API      -> 2.2.0
