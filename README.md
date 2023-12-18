@@ -13,11 +13,13 @@ If you previously opted into the `previous - The previous version` beta branch, 
 
 These steps can be performed again to select the `previous - The previous version` branch for [playing on v40](https://github.com/konovic/lethal_company_modpack/releases/tag/v1.1.0).
 
-#
+<br>
+
 ### DOWNLOAD:
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
-#
+<br>
+
 ### INSTALL:
 This guide assumes you're using a fresh install of Lethal Company (or updating this modpack). If you have a previous set of mods installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
@@ -35,7 +37,8 @@ Lethal Company\<all other base game files>
 `WINEDLLOVERRIDES="winhttp.dll=n,b" %command%`\
 to Lethal Company's Steam launch options.
 
-#
+<br>
+
 ### UPDATE:
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Skip this step if you have not modified any files in `BepInEx\config`.
