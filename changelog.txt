@@ -1,3 +1,27 @@
+v2.2.0
+Added mods:
++Coroner
++CirnoFumoScrap
++JesterFree
++PersistentPurchases
++ScalingStartCredits
++SlimeTamingFix
++SuitSaver
++TerminalHistory
++YippeeMod (replace bug sound)
++YippeeScrap (new scrap object)
+
+Added library dependencies:
++HookGenPatcher
++LCSoundTool
++LethalCompanyInputUtils
++LethalLib
++TerminalApi
+
+Notes:
+Reformatted README.md and reduced the verbosity of the installation instructions
+to make it easier to follow
+---
 v2.1.2
 Somehow HotbarTweaks got excluded from the initial upload, added it back in
 ---

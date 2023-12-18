@@ -53,22 +53,37 @@ to Lethal Company's Steam launch options.
 ---
 ## Mod List
 ### Mods
-| Mod/Plugin       | Version | Source                                                                                  |
-| ---------------- |:-------:|:---------------------------------------------------------------------------------------:|
-| FlashlightToggle | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)  |
-| HelmetCamera     | 2.1.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)      |
-| HotbarTweaks     | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Straky/HotbarTweaks/)         |
-| LateCompany      | 1.0.6   | [thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)     |
-| LetMeLookDown    | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)      |
-| Mimics           | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                 |
-| MoreCompany      | 1.7.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) |
-| MoreEmotes       | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)         |
-| MoreSuits        | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)             |
-| ShipLoot         | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)           |
-| Skinwalkers      | 2.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)   |
+| Mod/Plugin              | Version | Source                                                                                       |
+| ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
+| Coroner                 | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)          |
+| FlashlightToggle        | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)       |
+| CirnoFumoScrap          | 1.2.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/)       |
+| HelmetCamera            | 2.1.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)           |
+| HotbarTweaks            | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Straky/HotbarTweaks/)              |
+| JesterFree              | 2.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/)                |
+| LateCompany             | 1.0.6   | [thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)          |
+| LetMeLookDown           | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)           |
+| Mimics                  | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                      |
+| MoreCompany             | 1.7.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)      |
+| MoreEmotes              | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)              |
+| MoreSuits               | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  |
+| PersistentPurchases     | 1.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/TheBeeTeam/PersistentPurchases/)   |
+| ScalingStartCredits     | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)   |
+| ShipLoot                | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                |
+| Skinwalkers             | 2.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)        |
+| SlimeTamingFix          | 1.0.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/)   |
+| SuitSaver               | 1.1.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)              |
+| TerminalHistory         | 1.0.4   | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)   |
+| YippeeMod               | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             |
+| YippeeScrap             | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/AinaVT/YippeeScrap/)               |
 
 ### Libraries
-| Library          | Version | Source                                                                                  |
-| ---------------- |:-------:|:---------------------------------------------------------------------------------------:|
-| BepInEx          | 5.4.22  | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)                       |
-| LC\_API          | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                 |
+| Library                 | Version | Source                                                                                       |
+| ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
+| BepInEx                 | 5.4.22  | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)                            |
+| HookGenPatcher          | 0.0.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)            |
+| LC\_API                 | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      |
+| LCSoundTool             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)               |
+| LethalCompanyInputUtils | 0.4.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) |
+| LethalLib               | 0.6.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                 |
+| TerminalApi             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)        |
