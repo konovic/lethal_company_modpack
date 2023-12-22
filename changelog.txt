@@ -1,3 +1,11 @@
+v2.3.0
+Updated mods:
+Coroner			-> 1.4.2
+LC_API			-> 3.0.1
+LethalCompanyInputUtils	-> 0.4.3
+LethalLib		-> 0.7.0
+Mimics			-> 2.2.1
+--
 v2.2.0
 Added mods:
 +Coroner

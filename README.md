@@ -55,7 +55,7 @@ to Lethal Company's Steam launch options.
 ### Mods
 | Mod/Plugin              | Version | Source                                                                                       |
 | ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
-| Coroner                 | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)          |
+| Coroner                 | 1.4.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)          |
 | FlashlightToggle        | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)       |
 | CirnoFumoScrap          | 1.2.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/)       |
 | HelmetCamera            | 2.1.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)           |
@@ -63,7 +63,7 @@ to Lethal Company's Steam launch options.
 | JesterFree              | 2.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/)                |
 | LateCompany             | 1.0.6   | [thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)          |
 | LetMeLookDown           | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)           |
-| Mimics                  | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                      |
+| Mimics                  | 2.2.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                      |
 | MoreCompany             | 1.7.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)      |
 | MoreEmotes              | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)              |
 | MoreSuits               | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  |
@@ -82,8 +82,8 @@ to Lethal Company's Steam launch options.
 | ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
 | BepInEx                 | 5.4.22  | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)                            |
 | HookGenPatcher          | 0.0.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)            |
-| LC\_API                 | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      |
+| LC\_API                 | 3.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      |
 | LCSoundTool             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)               |
-| LethalCompanyInputUtils | 0.4.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) |
-| LethalLib               | 0.6.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                 |
+| LethalCompanyInputUtils | 0.4.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) |
+| LethalLib               | 0.7.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                 |
 | TerminalApi             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)        |
