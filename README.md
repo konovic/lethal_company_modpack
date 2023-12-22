@@ -82,7 +82,7 @@ to Lethal Company's Steam launch options.
 | ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
 | BepInEx                 | 5.4.22  | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)                            |
 | HookGenPatcher          | 0.0.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)            |
-| LC\_API                 | 3.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      |
+| LC\_API                 | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      |
 | LCSoundTool             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)               |
 | LethalCompanyInputUtils | 0.4.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) |
 | LethalLib               | 0.7.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                 |

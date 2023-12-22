@@ -1,3 +1,7 @@
+v2.3.1
+Rollback LC_API to 2.2.0
+Issue where player cannot move upon entering the ship
+---
 v2.3.0
 Updated mods:
 Coroner			-> 1.4.2
