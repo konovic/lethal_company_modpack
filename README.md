@@ -4,7 +4,7 @@ All rights held by the respective mod authors.
 
 ---
 ## Installation Instructions
-### LETHAL COMPANY:
+### LETHAL COMPANY
 Now updated for v45.\
 If you previously opted into the `previous - The previous version` beta branch, you'll need to update to the `None` branch to be on the latest version:
 1. Open Steam.
@@ -15,7 +15,7 @@ These steps can be performed again to select the `previous - The previous versio
 
 <br>
 
-### INSTALL:
+### INSTALL
 
 #### r2modman
 To install using [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), simply select Lethal Company from the game selection screen, import a new profile from a code, and paste the code below:\
@@ -25,11 +25,12 @@ r2modman will keep your mods up to date. If additional mods are added, they can 
 
 ---
 #### Manual
-##### Download
+##### Download:
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
 <br>
 
+##### Install:
 This guide assumes you're using a fresh install of Lethal Company (or updating this modpack). If you have a previous set of mods installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Unzip/open `lethal_company_modpack-<version>.zip`.
@@ -48,7 +49,7 @@ to Lethal Company's Steam launch options.
 
 <br>
 
-##### Update
+##### Update:
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Skip this step if you have not modified any files in `BepInEx\config`.
     1. Backup your `BepInEx\config` folder to a temporary safe location e.g. the desktop.
