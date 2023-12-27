@@ -15,12 +15,21 @@ These steps can be performed again to select the `previous - The previous versio
 
 <br>
 
-### DOWNLOAD:
+### INSTALL:
+
+#### r2modman
+To install using [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), simply select Lethal Company from the game selection screen, import a new profile from a code, and paste the code below:\
+`018cad96-12fe-8b18-f5d8-76914ebe0c1c`\
+Then choose a name for your modpack profile and let it update. You can then launch Lethal Company with mods directly from r2modman (requires owning the game on Steam).\
+r2modman will keep your mods up to date. If additional mods are added, they can be added manually by searching for them using r2modman.
+
+---
+#### Manual
+##### Download
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
 <br>
 
-### INSTALL:
 This guide assumes you're using a fresh install of Lethal Company (or updating this modpack). If you have a previous set of mods installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Unzip/open `lethal_company_modpack-<version>.zip`.
@@ -39,12 +48,12 @@ to Lethal Company's Steam launch options.
 
 <br>
 
-### UPDATE:
+##### Update
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Skip this step if you have not modified any files in `BepInEx\config`.
     1. Backup your `BepInEx\config` folder to a temporary safe location e.g. the desktop.
 3. Skip this step if you have not modified any files in `BepInEx\plugins`.
-    1. Backup any folders with manual modifications (e.g. `BepInEx\plugins\moresuits` if you added a `!less-suits.txt` file).
+    1. Backup any folders with manual modifications (e.g. `BepInEx\plugins\x753-More_Suits\moresuits` if you added a `!less-suits.txt` file).
 4. Delete the existing `BepInEx` folder.
 5. Follow the steps for `INSTALL` as above.
 6. If you performed step 2, copy the `config` folder back into the `Lethal Company\BepInEx` folder.
@@ -52,38 +61,32 @@ to Lethal Company's Steam launch options.
 
 ---
 ## Mod List
-### Mods
-| Mod/Plugin              | Version | Source                                                                                       |
-| ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
-| Coroner                 | 1.4.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)          |
-| FlashlightToggle        | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)       |
-| CirnoFumoScrap          | 1.2.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap/)       |
-| HelmetCamera            | 2.1.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)           |
-| HotbarTweaks            | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Straky/HotbarTweaks/)              |
-| JesterFree              | 2.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/)                |
-| LateCompany             | 1.0.6   | [thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)          |
-| LetMeLookDown           | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)           |
-| Mimics                  | 2.2.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                      |
-| MoreCompany             | 1.7.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)      |
-| MoreEmotes              | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)              |
-| MoreSuits               | 1.4.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  |
-| PersistentPurchases     | 1.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/TheBeeTeam/PersistentPurchases/)   |
-| ScalingStartCredits     | 1.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/ScalingStartCredits/)   |
-| ShipLoot                | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                |
-| Skinwalkers             | 2.0.1   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)        |
-| SlimeTamingFix          | 1.0.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix/)   |
-| SuitSaver               | 1.1.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)              |
-| TerminalHistory         | 1.0.4   | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)   |
-| YippeeMod               | 1.2.2   | [thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             |
-| YippeeScrap             | 1.0.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/AinaVT/YippeeScrap/)               |
-
-### Libraries
-| Library                 | Version | Source                                                                                       |
-| ----------------------- |:-------:|:--------------------------------------------------------------------------------------------:|
-| BepInEx                 | 5.4.22  | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.22)                            |
-| HookGenPatcher          | 0.0.5   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/)            |
-| LC\_API                 | 2.2.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      |
-| LCSoundTool             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool/)               |
-| LethalCompanyInputUtils | 0.4.3   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) |
-| LethalLib               | 0.7.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/)                 |
-| TerminalApi             | 1.4.0   | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)        |
+```
+BepInEx-BepInExPack-5.4.2100
+EliteMasterEric-Coroner-1.4.2
+Rune580-LethalCompany_InputUtils-0.4.3
+Renegades-FlashlightToggle-1.5.0
+Evaisa-HookGenPatcher-0.0.5
+Evaisa-LethalLib-0.9.0
+Badham_Mods-CirnoFumoScrap-1.2.1
+RickArg-Helmet_Cameras-2.1.5
+Straky-HotbarTweaks-1.0.1
+no00ob-LCSoundTool-1.4.0
+AriDev-JesterFree-2.0.0
+anormaltwig-LateCompany-1.0.7
+FlipMods-LetMeLookDown-1.0.1
+x753-Mimics-2.3.0
+notnotnotswipez-MoreCompany-1.7.2
+Sligili-More_Emotes-1.2.2
+x753-More_Suits-1.4.1
+TheBeeTeam-PersistentPurchases-1.2.0
+sunnobunno-ScalingStartCredits-1.0.1
+tinyhoot-ShipLoot-1.0.0
+RugbugRedfern-Skinwalkers-2.0.1
+EliteMasterEric-SlimeTamingFix-1.0.2
+Hexnet111-SuitSaver-1.1.2
+NotAtomicBomb-TerminalApi-1.4.0
+deemodev-TerminalHistory-1.0.0
+sunnobunno-YippeeMod-1.2.2
+AinaVT-YippeeScrap-1.0.0
+```
