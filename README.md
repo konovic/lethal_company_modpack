@@ -21,7 +21,11 @@ These steps can be performed again to select the `previous - The previous versio
 To install using [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), simply select Lethal Company from the game selection screen, import a new profile from a code, and paste the code below:\
 `018cad96-12fe-8b18-f5d8-76914ebe0c1c`\
 Then choose a name for your modpack profile and let it update. You can then launch Lethal Company with mods directly from r2modman (requires owning the game on Steam).\
-r2modman will keep your mods up to date. If additional mods are added, they can be added manually by searching for them using r2modman.
+##### Update:
+r2modman will keep your mods up to date. If additional mods are added to this pack, they can be added to your existing profile.\
+1. Select Lethal Company from the game selection screen.
+2. Click `Import/Update`, then `Update existing profile`, then `from code`.
+3. Select the correct profile from the drop-down list and click `Update profile`.
 
 ---
 #### Manual
