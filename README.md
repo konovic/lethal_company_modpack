@@ -40,7 +40,7 @@ This guide assumes you're using a fresh install of Lethal Company (or updating t
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Unzip/open `lethal_company_modpack-<version>.zip`.
 3. Move the contents of the `lethal_company_modpack-<version>\modpack` folder into the `Lethal Company` folder from step 1.\
-Your `Lethal Company` folder should look like this:\
+Your `Lethal Company` folder should look like this:
 ```
 Lethal Company\BepInEx
 Lethal Company\doorstop_config.ini
