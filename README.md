@@ -24,7 +24,7 @@ Then choose a name for your modpack profile and let it update. You can then laun
 ##### Update:
 r2modman will keep your mods up to date. If additional mods are added to this pack, they can be added to your existing profile.
 1. Select Lethal Company from the game selection screen.
-2. Click `Import/Update`, then `Update existing profile`, then `from code`.
+2. Click `Import/Update`, then `Update existing profile`, then `From code`.
 3. Select the correct profile from the drop-down list and click `Update profile`.
 
 ---
