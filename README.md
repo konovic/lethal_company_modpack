@@ -19,7 +19,7 @@ These steps can be performed again to select the `previous - The previous versio
 
 #### r2modman
 To install using [r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/), simply select Lethal Company from the game selection screen, import a new profile from a code, and paste the code below:\
-`018cad96-12fe-8b18-f5d8-76914ebe0c1c`\
+`018cb734-451b-4a40-a148-2973ffa089b8`\
 Then choose a name for your modpack profile and let it update. You can then launch Lethal Company with mods directly from r2modman (requires owning the game on Steam).
 ##### Update:
 r2modman will keep your mods up to date. If this modpack adds or removes mods, these changes can be updated in your existing profile.
@@ -69,8 +69,8 @@ to Lethal Company's Steam launch options.
 ## Mod List
 ```
 BepInEx-BepInExPack-5.4.2100
-EliteMasterEric-Coroner-1.4.2
-Rune580-LethalCompany_InputUtils-0.4.3
+EliteMasterEric-Coroner-1.5.0
+Rune580-LethalCompany_InputUtils-0.4.4
 Renegades-FlashlightToggle-1.5.0
 Evaisa-HookGenPatcher-0.0.5
 Evaisa-LethalLib-0.9.0
@@ -95,4 +95,10 @@ NotAtomicBomb-TerminalApi-1.4.0
 deemodev-TerminalHistory-1.0.0
 sunnobunno-YippeeMod-1.2.2
 AinaVT-YippeeScrap-1.0.0
+2018-LC_API-3.1.0
+Mhz-MoreHead-1.2.2
+darmuh-ghostCodes-1.1.0
+Badham_Mods-SCPFoundationDungeon-1.3.1
+Clementinise-CustomSounds-2.2.0
+JacuJ-Memetastic-1.0.4
 ```

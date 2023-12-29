@@ -1,3 +1,13 @@
+v2.5.0
+Added mods:
++ghostCodes
++Memetastic
++MoreHead (lol, lmao)
++SCPFoundationDungeon
+
+r2modman code:
+018cb734-451b-4a40-a148-2973ffa089b8
+---
 v2.4.0
 Update modpack to be compatible with r2modman
 Added modpack code for installing via r2modman
