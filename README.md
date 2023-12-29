@@ -26,6 +26,7 @@ To install using r2modman:
 4. Copy and paste the code below, then click `Import`:\
 `018cb734-451b-4a40-a148-2973ffa089b8`
 5. Choose a name for your modpack profile and let it update.\
+
 You can now launch Lethal Company with mods directly from r2modman (requires owning the game on Steam).
 ##### Update:
 r2modman will keep your mods up to date. If this modpack adds or removes mods, these changes can be updated in your existing profile.
