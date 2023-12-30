@@ -1,3 +1,9 @@
+v2.5.1
+Bump versions
+
+r2modman code:
+018cbcfd-c77f-f9d5-b841-c18a6e0dff66
+---
 v2.5.0
 Added mods:
 +ghostCodes

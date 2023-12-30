@@ -24,7 +24,7 @@ To install using r2modman:
 2. Select `Lethal Company` from the game selection screen.
 3. Select `Import/Update`, then `Import new profile`, then `From code`.
 4. Copy and paste the code below, then click `Import`:\
-`018cb734-451b-4a40-a148-2973ffa089b8`
+`018cbcfd-c77f-f9d5-b841-c18a6e0dff66`
 5. Choose a name for your modpack profile and let it update.
 
 You can now launch Lethal Company with mods directly from r2modman (requires owning the game on Steam).
@@ -76,7 +76,7 @@ to Lethal Company's Steam launch options.
 ## Mod List
 ```
 BepInEx-BepInExPack-5.4.2100
-EliteMasterEric-Coroner-1.5.0
+EliteMasterEric-Coroner-1.5.3
 Rune580-LethalCompany_InputUtils-0.4.4
 Renegades-FlashlightToggle-1.5.0
 Evaisa-HookGenPatcher-0.0.5
@@ -86,7 +86,7 @@ RickArg-Helmet_Cameras-2.1.5
 Straky-HotbarTweaks-1.0.1
 no00ob-LCSoundTool-1.4.0
 AriDev-JesterFree-2.0.0
-anormaltwig-LateCompany-1.0.7
+anormaltwig-LateCompany-1.0.8
 FlipMods-LetMeLookDown-1.0.1
 x753-Mimics-2.3.0
 notnotnotswipez-MoreCompany-1.7.2
@@ -102,7 +102,7 @@ NotAtomicBomb-TerminalApi-1.4.0
 deemodev-TerminalHistory-1.0.0
 sunnobunno-YippeeMod-1.2.2
 AinaVT-YippeeScrap-1.0.0
-2018-LC_API-3.1.0
+2018-LC_API-3.2.2
 Mhz-MoreHead-1.2.2
 darmuh-ghostCodes-1.1.0
 Badham_Mods-SCPFoundationDungeon-1.3.1
