@@ -1,8 +1,31 @@
+v2.6.0
+Remove r2modman support, see note in README
+Basically boils down to stability issues and minor mod installation issues
+
+Back to old markdown table for mods, now using each mod's manifest.json website_url for links
+This is mostly to allow for automating the readme while still giving attribution to each mod author.
+I may move to a solution in the future that goes back to linking each thunderstore.io page,
+but I'd like to have as little manual intervention as possible.
+
+Added mods:
++DraculaFlowBug
++FastSwitchPlayerViewInRadar
++JetpackWarning
++LethalAutocomplete
++MoreItems
++SkipToMultiplayerMenu
+
+Removed mods:
+-Memetastic (way too big, also got annoying fast)
+-Terminal_History (functionality included in LethalAutocomplete)
+-Yippee (bug sounds, scrap mod is still installed)
+
+---
 v2.5.1
 Bump versions
 
 r2modman code:
-018cbcfd-c77f-f9d5-b841-c18a6e0dff66
+DEFUNCT
 ---
 v2.5.0
 Added mods:
@@ -12,7 +35,7 @@ Added mods:
 +SCPFoundationDungeon
 
 r2modman code:
-018cb734-451b-4a40-a148-2973ffa089b8
+DEFUNCT
 ---
 v2.4.0
 Update modpack to be compatible with r2modman

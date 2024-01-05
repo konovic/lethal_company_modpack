@@ -2,6 +2,16 @@
 Personal modpack for Lethal Company v45.\
 All rights held by the respective mod authors.
 
+#### A note about r2modman
+r2modman support has been dropped as it added extra complexity and stability issues between those installing manually and those using the mod manager.\
+For stability purposes, it is highly recommended that everybody follow the manual installation.\
+I apologize for any inconvenience, and thank you for you understanding.
+
+#### A note about CustomSounds
+A minor technical detail is that r2modman was previously installing CustomSounds mods into legacy locations rather than the correct CustomSounds mod folder.\
+Despite being installed in the correct location now, there appears to be an occasional bug that requires the game to be loaded twice before the sounds start working.\
+This will not have any real impact on gameplay.
+
 ---
 ## Installation Instructions
 ### LETHAL COMPANY
@@ -17,32 +27,12 @@ These steps can be performed again to select the `previous - The previous versio
 
 ### INSTALL
 
-#### r2modman
-[r2modman](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/) is a mod manager that downloads and manages mods for you. It will automatically query thunderstore.io for mod updates and download them as they happen, keeping your mods up to date for you.
-To install using r2modman:
-1. If you haven't done so already: download r2modman above, install, and launch it.
-2. Select `Lethal Company` from the game selection screen.
-3. Select `Import/Update`, then `Import new profile`, then `From code`.
-4. Copy and paste the code below, then click `Import`:\
-`018cbcfd-c77f-f9d5-b841-c18a6e0dff66`
-5. Choose a name for your modpack profile and let it update.
-
-You can now launch Lethal Company with mods directly from r2modman (requires owning the game on Steam).
-##### Update:
-r2modman will keep your mods up to date. If this modpack adds or removes mods, these changes can be updated in your existing profile.
-1. Select `Lethal Company` from the game selection screen.
-2. Click `Import/Update`, then `Update existing profile`, then `From code`.
-3. Copy and paste the code above for most up-to-date version of this modpack.
-4. Select the correct profile from the drop-down list and click `Update profile`.
-
----
-#### Manual
-##### Download:
+#### Download:
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
 <br>
 
-##### Install:
+#### Install:
 This guide assumes you're using a fresh install of Lethal Company (or updating this modpack). If you have a previous set of mods installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Unzip/open `lethal_company_modpack-<version>.zip`.
@@ -61,7 +51,7 @@ to Lethal Company's Steam launch options.
 
 <br>
 
-##### Update:
+#### Update:
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Skip this step if you have not modified any files in `BepInEx\config`.
     1. Backup your `BepInEx\config` folder to a temporary safe location e.g. the desktop.
@@ -73,39 +63,43 @@ to Lethal Company's Steam launch options.
 7. If you performed step 3, restore any additional files/folders. Take care when copying files from older mod versions to newer mod versions.
 
 ---
-## Mod List
-```
-BepInEx-BepInExPack-5.4.2100
-EliteMasterEric-Coroner-1.5.3
-Rune580-LethalCompany_InputUtils-0.4.4
-Renegades-FlashlightToggle-1.5.0
-Evaisa-HookGenPatcher-0.0.5
-Evaisa-LethalLib-0.9.0
-Badham_Mods-CirnoFumoScrap-1.2.1
-RickArg-Helmet_Cameras-2.1.5
-Straky-HotbarTweaks-1.0.1
-no00ob-LCSoundTool-1.4.0
-AriDev-JesterFree-2.0.0
-anormaltwig-LateCompany-1.0.8
-FlipMods-LetMeLookDown-1.0.1
-x753-Mimics-2.3.0
-notnotnotswipez-MoreCompany-1.7.2
-Sligili-More_Emotes-1.2.2
-x753-More_Suits-1.4.1
-TheBeeTeam-PersistentPurchases-1.2.0
-sunnobunno-ScalingStartCredits-1.0.1
-tinyhoot-ShipLoot-1.0.0
-RugbugRedfern-Skinwalkers-2.0.1
-EliteMasterEric-SlimeTamingFix-1.0.2
-Hexnet111-SuitSaver-1.1.2
-NotAtomicBomb-TerminalApi-1.4.0
-deemodev-TerminalHistory-1.0.0
-sunnobunno-YippeeMod-1.2.2
-AinaVT-YippeeScrap-1.0.0
-2018-LC_API-3.2.2
-Mhz-MoreHead-1.2.2
-darmuh-ghostCodes-1.1.0
-Badham_Mods-SCPFoundationDungeon-1.3.1
-Clementinise-CustomSounds-2.2.0
-JacuJ-Memetastic-1.0.4
-```
+| Mod/Plugin                                                                                 | Version | Author          |
+| ------------------------------------------------------------------------------------------ | ------- | --------------- |
+| [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                         | v5.4.21 | Various         |
+| [CirnoFumoScrap](https://github.com/Badhamknibbs/Cirno-Fumo-Scrap-mod_LC)                  | v1.2.1  | Badham_Mods     |
+| [Coroner](https://github.com/EliteMasterEric/Coroner)                                      | v1.5.3  | EliteMasterEric |
+| [CustomSounds](https://github.com/clementinise/CustomSounds)                               | v2.2.0  | Clementinise    |
+| DraculaFlowBug                                                                             | v1.2.0  | KlippKlubben    |
+| [FastSwitchPlayerViewInRadar](https://github.com/kRYstall9/FastSwitchPlayerViewInRadarMOD) | v1.3.2  | kRYstall9       |
+| [FlashlightToggle](https://github.com/redassser/Lc-Flashlight)                             | v1.5.0  | Renegades       |
+| [ghostCodes](https://github.com/darmuh/ghostcodes)                                         | v1.1.0  | darmuh          |
+| [Helmet_Cameras](https://github.com/The0therOne/Helmet_Cameras)                            | v2.1.5  | RickArg         |
+| [HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher)          | v0.0.5  | Evaisa          |
+| [HotbarTweaks](https://straky.fr)                                                          | v1.0.1  | Straky          |
+| [JesterFree](https://github.com/AriDeve/JesterFree)                                        | v2.0.0  | AriDev          |
+| [JetpackWarning](https://github.com/Hamunii/JetpackWarning)                                | v2.2.0  | Hamunii         |
+| [LateCompany](https://github.com/ANormalTwig/LC-LateCompany)                               | v1.0.9  | anormaltwig     |
+| [LC_API](https://github.com/steven4547466/LC-API)                                          | v3.2.4  | 2018            |
+| [LCSoundTool](https://github.com/no00ob/LCSoundTool)                                       | v1.4.0  | no00ob          |
+| [LethalAutocomplete](https://github.com/IlyaChichkov/LethalAutocompleteMod)                | v0.4.0  | red_eye         |
+| [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)             | v0.4.4  | Rune580         |
+| [LethalLib](https://github.com/EvaisaDev/LethalLib)                                        | v0.10.1 | Evaisa          |
+| LetMeLookDown                                                                              | v1.0.1  | FlipMods        |
+| [Mimics](https://github.com/x753/Lethal-Company-Mimics)                                    | v2.3.0  | x753            |
+| MoreCompany                                                                                | v1.7.2  | notnotnotswipez |
+| [More_Emotes](https://www.youtube.com/watch?v=nugrbr8dvvk)                                 | v1.2.2  | Sligili         |
+| MoreHead                                                                                   | v1.2.2  | Mhz             |
+| MoreItems                                                                                  | v1.0.1  | Drakorle        |
+| [More_Suits](https://github.com/x753/Lethal-Company-More-Suits)                            | v1.4.1  | x753            |
+| [PersistentPurchases](https://github.com/NotSoEpic/PeristentPurchases)                     | v1.2.0  | TheBeeTeam      |
+| [ScalingStartCredits](https://github.com/sunnobunno/ScalingStartCredits)                   | v1.0.1  | sunnobunno      |
+| [SCPFoundationDungeon](https://github.com/Badhamknibbs/SCPCB_DunGen_LC/)                   | v1.4.1  | Badham_Mods     |
+| [ShipLoot](https://github.com/tinyhoot/ShipLoot)                                           | v1.0.0  | tinyhoot        |
+| [Skinwalkers](https://rugbug.net/skinwalkers)                                              | v2.0.1  | RugbugRedfern   |
+| SkipToMultiplayerMenu                                                                      | v1.0.0  | FlipMods        |
+| [SlimeTamingFix](https://github.com/EliteMasterEric/SlimeTamingFix)                        | v1.0.2  | EliteMasterEric |
+| [SuitSaver](https://github.com/Hexnet111/SuitSaver)                                        | v1.1.2  | Hexnet111       |
+| [TerminalApi](https://github.com/NotAtomicBomb/TerminalApi)                                | v1.5.0  | NotAtomicBomb   |
+| YippeeScrap                                                                                | v1.0.4  | AinaVT          |
+
+*Autogenerated using mod metadata downloaded via [thunderstore](https://thunderstore.io/c/lethal-company)*
