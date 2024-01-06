@@ -1,3 +1,20 @@
+v2.7.0
+Added mods:
++HotBarPlus (default modpack config works like vanilla)
++LethalConfig (allows editing config files from the main menu)
++YippeeMod (Loot bugs are happy again)
+
+Removed mods:
+-CustomSounds (no mods that depend on it anymore)
+-DraculaFlowBug (funny as a one-off)
+-HotbarTweaks (hasn't been updated, stopped working as intended)
+-ghostCodes (procs way too often to be fun)
+-Mimics (no more visual tells, game is already hard enough)
+
+Configs:
+HotBarPlus
+Changed to function identically to vanilla, can be changed client side to add additional features
+---
 v2.6.0
 Remove r2modman support, see note in README
 Basically boils down to stability issues and minor mod installation issues
@@ -90,11 +107,11 @@ Updated mods:
 MoreEmotes -> 1.2.2
 
 Notes:
-Removed configs that don't differ from the default auto-generated configs
-Updated MoreEmotes, corrected an issue where modpack v2.1.0 was actually using v1.2.0 of the mod
----
-v2.1.0
-Updated mods:
+Removed configs that don't differ from the default auto-generated configsC
+Updated MoreEmotes, corrected an issue where modpack v2.1.0 was actually Dusing v1.2.0 of the mod
+---                                                                      H
+v2.1.0                                                                   g
+Updated mods:                                                            M
 LC_API      -> 2.2.0
 LateCompany -> 1.0.6
 Mimics      -> 2.2.0
