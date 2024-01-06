@@ -79,7 +79,7 @@ to Lethal Company's Steam launch options.
 | [JesterFree](https://github.com/AriDeve/JesterFree)                                        | v2.0.0  | AriDev          |
 | [JetpackWarning](https://github.com/Hamunii/JetpackWarning)                                | v2.2.0  | Hamunii         |
 | [LateCompany](https://github.com/ANormalTwig/LC-LateCompany)                               | v1.0.9  | anormaltwig     |
-| [LC_API](https://github.com/steven4547466/LC-API)                                          | v3.2.4  | 2018            |
+| [LC_API](https://github.com/steven4547466/LC-API)                                          | v3.3.0  | 2018            |
 | [LCSoundTool](https://github.com/no00ob/LCSoundTool)                                       | v1.4.0  | no00ob          |
 | [LethalAutocomplete](https://github.com/IlyaChichkov/LethalAutocompleteMod)                | v0.4.0  | red_eye         |
 | [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)             | v0.4.4  | Rune580         |
@@ -91,7 +91,7 @@ to Lethal Company's Steam launch options.
 | MoreHead                                                                                   | v1.2.2  | Mhz             |
 | MoreItems                                                                                  | v1.0.1  | Drakorle        |
 | [More_Suits](https://github.com/x753/Lethal-Company-More-Suits)                            | v1.4.1  | x753            |
-| [PersistentPurchases](https://github.com/NotSoEpic/PeristentPurchases)                     | v1.2.0  | TheBeeTeam      |
+| [PersistentPurchases](https://github.com/NotSoEpic/PeristentPurchases)                     | v1.1.0  | TheBeeTeam      |
 | [ScalingStartCredits](https://github.com/sunnobunno/ScalingStartCredits)                   | v1.0.1  | sunnobunno      |
 | [SCPFoundationDungeon](https://github.com/Badhamknibbs/SCPCB_DunGen_LC/)                   | v1.4.1  | Badham_Mods     |
 | [ShipLoot](https://github.com/tinyhoot/ShipLoot)                                           | v1.0.0  | tinyhoot        |

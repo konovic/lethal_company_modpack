@@ -20,6 +20,10 @@ Removed mods:
 -Terminal_History (functionality included in LethalAutocomplete)
 -Yippee (bug sounds, scrap mod is still installed)
 
+Notes:
+PersistentPurchases seems to have been the cause of getting stuck on the YOU ARE FIRED screen
+Reverting to version v1.1.0 appears to be a temporary fix until this gets updated
+
 ---
 v2.5.1
 Bump versions
