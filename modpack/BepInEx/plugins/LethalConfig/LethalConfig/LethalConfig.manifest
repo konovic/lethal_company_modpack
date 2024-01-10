@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 340668234
+CRC: 1685164101
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: ainavt_lethalconfig
-      Dependencies: {}
-    Info_1:
-      Name: ainavt_yippee
       Dependencies: {}

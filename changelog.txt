@@ -1,3 +1,8 @@
+v3.0.0
+Updated for v49
+Mostly mod version bumps
+Only mod removed is for the masked fix, as it is unneeded now
+---
 v2.7.0
 Added mods:
 +HotBarPlus (default modpack config works like vanilla)

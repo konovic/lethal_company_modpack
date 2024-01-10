@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3025183334
+CRC: 1302845924
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d1c9b364e5a7dc73c7a482b0d2238906
+    Hash: 0338f1f496397187690eebe8253ce856
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4aad2f4bf6ca9a68d791c0e15aec905b
+    Hash: 8653186fd34838920d27b49167a5913c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d1c9b364e5a7dc73c7a482b0d2238906
+    Hash: 0338f1f496397187690eebe8253ce856
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,7 +20,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
@@ -29,9 +37,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -47,15 +55,23 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c2506c7ef253bf647ac14dafff0c9c42, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 0bd2e1d4f8976a6418a7cea84828a238, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31fbafe6400dc9249af29859fb64e6f1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: b8e4dac3bc075c54d8fce7070c30f527, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af84ce9af7f21db4594e9fa3ce979f68, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3fc9d7873ff431444aa8ac71c6aafa04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b31744e809fc11748adbbdcb360a6876, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85d03fa0691807d4686ee1b497803ecf, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a, type: 3}
 - Class: 114
@@ -83,19 +99,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: de8daa90920208b4fa612bc8ea160300, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 794a22b757af9b24294d8024be2b7e39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebf542f22fcddcf4e9dd083d29cd693c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 22a3fc969872f9b468ca32fc898a0e0c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 50568988965ec9846ba55160e6c177fd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d48011a777def6d4b906544b23aada75, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: ebf542f22fcddcf4e9dd083d29cd693c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: de8daa90920208b4fa612bc8ea160300, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 0bd2e1d4f8976a6418a7cea84828a238, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -105,6 +119,8 @@ ClassTypes:
 - Class: 222
   Script: {instanceID: 0}
 - Class: 224
+  Script: {instanceID: 0}
+- Class: 225
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.TextMeshPro
@@ -174,36 +190,49 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.Toggle/ToggleEvent
 Assets:
-- Assets/Mods/LethalConfig/AudioClips/HoverSFX.ogg
+- Assets/Animations/ConfigMenu/ConfigMenuClosed.anim
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
-- Assets/Mods/LethalConfig/Prefabs/Components/FloatStepSliderItem.prefab
-- Assets/Mods/LethalConfig/AudioClips/CancelSFX.ogg
-- Assets/Mods/LethalConfig/Font/3270-Regular SDF.asset
+- Assets/AudioClips/CancelSFX.ogg
+- Assets/Font/3270-Regular SDF.asset
 - Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-- Assets/Mods/LethalConfig/Sprite/reset-to-default.png
-- Assets/Mods/LethalConfig/Prefabs/Components/BoolCheckBoxItem.prefab
-- Assets/Mods/LethalConfig/Prefabs/Components/FloatSliderItem.prefab
-- Assets/Mods/LethalConfig/Prefabs/Components/IntSliderItem.prefab
-- Assets/Mods/LethalConfig/AudioClips/SelectSFX.ogg
-- Assets/Mods/LethalConfig/Sprite/DialogueBox1Frame 5.png
-- Assets/Mods/LethalConfig/Prefabs/Components/FloatInputFieldItem.prefab
-- Assets/Mods/LethalConfig/Prefabs/Components/SectionHeader.prefab
-- Assets/Mods/LethalConfig/Prefabs/Components/IntInputFieldItem.prefab
-- Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
-- Assets/Mods/LethalConfig/Sprite/UICheckMark.png
+- Assets/Sprite/reset-to-default.png
+- Assets/Prefabs/Components/IntSliderItem.prefab
+- Assets/Sprite/DialogueBox1Frame 5.png
+- Assets/Prefabs/ConfigMenuNotification.prefab
+- Assets/Animations/ConfigMenuNotification/NotificationAppear.anim
+- Assets/Animations/ConfigMenu/ConfigMenuAppear.anim
+- Assets/Prefabs/Components/SectionHeader.prefab
+- Assets/Sprite/UICheckMark.png
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd
-- Assets/Mods/LethalConfig/Sprite/DialogueBoxSimple.png
+- Assets/AudioClips/SelectSFX.ogg
+- Assets/Animations/ConfigMenuNotification/NotificationNormal.anim
+- Assets/Prefabs/Components/GenericButtonItem.prefab
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
-- Assets/Mods/LethalConfig/Prefabs/Components/EnumDropDownItem.prefab
-- Assets/Mods/LethalConfig/icon.png
-- Assets/Mods/LethalConfig/Prefabs/Components/Elements/ResetToDefaultButton.prefab
-- Assets/Mods/LethalConfig/Prefabs/Components/TextInputFieldItem.prefab
-- Assets/Mods/LethalConfig/Sprite/DialogueBoxSimple 1.png
-- Assets/Mods/LethalConfig/Prefabs/Components/Elements/ConfigNameLabel.prefab
-- Assets/Mods/LethalConfig/Font/3270-Regular.ttf
-- Assets/Mods/LethalConfig/Sprite/unknown-icon.png
-- Assets/Mods/LethalConfig/Prefabs/ConfigMenu.prefab
-- Assets/Mods/LethalConfig/AudioClips/ChangeValueSFX.ogg
-- Assets/Mods/LethalConfig/AudioClips/ConfirmSFX.ogg
-- Assets/Mods/LethalConfig/Prefabs/ModListItem.prefab
+- Assets/Prefabs/Components/EnumDropDownItem.prefab
+- Assets/icon.png
+- Assets/Animations/ConfigMenuNotification/NotificationDisappear.anim
+- Assets/Prefabs/Components/TextInputFieldItem.prefab
+- Assets/Animations/ConfigMenuNotification/ConfigMenuNotification.controller
+- Assets/Prefabs/ConfigMenuManager.prefab
+- Assets/Prefabs/Components/Elements/ConfigNameLabel.prefab
+- Assets/Font/3270-Regular.ttf
+- Assets/AudioClips/HoverSFX.ogg
+- Assets/AudioClips/ChangeValueSFX.ogg
+- Assets/Prefabs/ModListItem.prefab
+- Assets/Prefabs/Components/FloatStepSliderItem.prefab
+- Assets/Prefabs/Components/BoolCheckBoxItem.prefab
+- Assets/Prefabs/Components/FloatSliderItem.prefab
+- Assets/Sprite/DialogueBoxSimple.png
+- Assets/Prefabs/Components/FloatInputFieldItem.prefab
+- Assets/Prefabs/Components/IntInputFieldItem.prefab
+- Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+- Assets/Animations/ConfigMenuNotification/NotificationClosed.anim
+- Assets/Animations/ConfigMenu/ConfigMenuNormal.anim
+- Assets/Animations/ConfigMenu/ConfigMenuDisappear.anim
+- Assets/Prefabs/Components/Elements/ResetToDefaultButton.prefab
+- Assets/Sprite/DialogueBoxSimple 1.png
+- Assets/Sprite/unknown-icon.png
+- Assets/Prefabs/ConfigMenu.prefab
+- Assets/Animations/ConfigMenu/ConfigMenu.controller
+- Assets/AudioClips/ConfirmSFX.ogg
 Dependencies: []
