@@ -1,3 +1,6 @@
+v3.0.1
+Forgot dependencies for SCPDungeon and MoreEmotes
+---
 v3.0.0
 Updated for v49
 Mostly mod version bumps

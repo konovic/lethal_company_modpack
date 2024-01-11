@@ -77,6 +77,7 @@ to Lethal Company's Steam launch options.
 | [LethalAutocomplete](https://github.com/IlyaChichkov/LethalAutocompleteMod)                | v0.4.1  | red_eye         |
 | [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)             | v0.4.4  | Rune580         |
 | [LethalConfig](https://github.com/AinaVT/LethalConfig)                                     | v1.3.4  | AinaVT          |
+| [LethalLevelLoader](https://github.com/IAmBatby/LethalLevelLoader)                         | v1.0.4  | IAmBatby        |
 | [LethalLib](https://github.com/EvaisaDev/LethalLib)                                        | v0.11.1 | Evaisa          |
 | LetMeLookDown                                                                              | v1.0.1  | FlipMods        |
 | MoreCompany                                                                                | v1.7.4  | notnotnotswipez |
@@ -85,6 +86,7 @@ to Lethal Company's Steam launch options.
 | MoreItems                                                                                  | v1.0.1  | Drakorle        |
 | [More_Suits](https://github.com/x753/Lethal-Company-More-Suits)                            | v1.4.1  | x753            |
 | [PersistentPurchases](https://github.com/NotSoEpic/PeristentPurchases)                     | v1.1.0  | TheBeeTeam      |
+| [Runtime_Netcode_Patcher](https://github.com/NicholasScott1337/RuntimeNetcodeRPCValidator) | v0.2.5  | Ozone           |
 | [ScalingStartCredits](https://github.com/sunnobunno/ScalingStartCredits)                   | v1.0.1  | sunnobunno      |
 | [SCPFoundationDungeon](https://github.com/Badhamknibbs/SCPCB_DunGen_LC/)                   | v1.5.0  | Badham_Mods     |
 | [ShipLoot](https://github.com/tinyhoot/ShipLoot)                                           | v1.0.0  | tinyhoot        |
