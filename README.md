@@ -32,8 +32,8 @@ Navigate to the [latest release](https://github.com/konovic/lethal_company_modpa
 This guide assumes you're using a fresh install of Lethal Company. If you're updating this modpack, see the [**Update**](https://github.com/konovic/lethal_company_modpack#update) section below.\
 If you have a different modpack installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
-2. Unzip/open `lethal_company_modpack-v3.0.0.zip`.
-3. Move the contents of the `lethal_company_modpack-v3.0.0\modpack` folder into the `Lethal Company` folder from step 1.\
+2. Unzip/open `lethal_company_modpack-v3.1.0.zip`.
+3. Move the contents of the `lethal_company_modpack-v3.1.0\modpack` folder into the `Lethal Company` folder from step 1.\
 Your `Lethal Company` folder should look like this:
 ```
 Lethal Company\BepInEx\<plugins,config,etc>
@@ -59,43 +59,44 @@ to Lethal Company's Steam launch options.
 
 ---
 ## Mod List
-| Mod/Plugin                                                                                 | Version | Author          |
-| ------------------------------------------------------------------------------------------ | ------- | --------------- |
-| [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                         | v5.4.21 | Various         |
-| [CirnoFumoScrap](https://github.com/Badhamknibbs/Cirno-Fumo-Scrap-mod_LC)                  | v2.0.1  | Badham_Mods     |
-| [Coroner](https://github.com/EliteMasterEric/Coroner)                                      | v1.5.3  | EliteMasterEric |
-| [FastSwitchPlayerViewInRadar](https://github.com/kRYstall9/FastSwitchPlayerViewInRadarMOD) | v1.3.2  | kRYstall9       |
-| [FlashlightToggle](https://github.com/redassser/Lc-Flashlight)                             | v1.5.0  | Renegades       |
-| [Helmet_Cameras](https://github.com/The0therOne/Helmet_Cameras)                            | v2.1.5  | RickArg         |
-| [HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher)          | v0.0.5  | Evaisa          |
-| HotbarPlus                                                                                 | v1.5.1  | FlipMods        |
-| [JesterFree](https://github.com/AriDeve/JesterFree)                                        | v2.0.0  | AriDev          |
-| [JetpackWarning](https://github.com/Hamunii/JetpackWarning)                                | v2.2.0  | Hamunii         |
-| [LateCompany](https://github.com/ANormalTwig/LC-LateCompany)                               | v1.0.10 | anormaltwig     |
-| [LC_API](https://github.com/steven4547466/LC-API)                                          | v3.3.2  | 2018            |
-| [LCSoundTool](https://github.com/no00ob/LCSoundTool)                                       | v1.4.0  | no00ob          |
-| [LethalAutocomplete](https://github.com/IlyaChichkov/LethalAutocompleteMod)                | v0.4.1  | red_eye         |
-| [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)             | v0.4.4  | Rune580         |
-| [LethalConfig](https://github.com/AinaVT/LethalConfig)                                     | v1.3.4  | AinaVT          |
-| [LethalLevelLoader](https://github.com/IAmBatby/LethalLevelLoader)                         | v1.0.4  | IAmBatby        |
-| [LethalLib](https://github.com/EvaisaDev/LethalLib)                                        | v0.11.1 | Evaisa          |
-| LetMeLookDown                                                                              | v1.0.1  | FlipMods        |
-| MoreCompany                                                                                | v1.7.4  | notnotnotswipez |
-| [More_Emotes](https://www.youtube.com/watch?v=GMgsFZ4rkEI)                                 | v1.3.2  | Sligili         |
-| MoreHead                                                                                   | v1.2.3  | Mhz             |
-| MoreItems                                                                                  | v1.0.1  | Drakorle        |
-| [More_Suits](https://github.com/x753/Lethal-Company-More-Suits)                            | v1.4.1  | x753            |
-| [PersistentPurchases](https://github.com/NotSoEpic/PeristentPurchases)                     | v1.1.0  | TheBeeTeam      |
-| [Runtime_Netcode_Patcher](https://github.com/NicholasScott1337/RuntimeNetcodeRPCValidator) | v0.2.5  | Ozone           |
-| [ScalingStartCredits](https://github.com/sunnobunno/ScalingStartCredits)                   | v1.0.1  | sunnobunno      |
-| [SCPFoundationDungeon](https://github.com/Badhamknibbs/SCPCB_DunGen_LC/)                   | v1.5.0  | Badham_Mods     |
-| [ShipLoot](https://github.com/tinyhoot/ShipLoot)                                           | v1.0.0  | tinyhoot        |
-| [Skinwalkers](https://rugbug.net/skinwalkers)                                              | v2.0.6  | RugbugRedfern   |
-| SkipToMultiplayerMenu                                                                      | v1.0.0  | FlipMods        |
-| [SlimeTamingFix](https://github.com/EliteMasterEric/SlimeTamingFix)                        | v1.0.2  | EliteMasterEric |
-| [SuitSaver](https://github.com/Hexnet111/SuitSaver)                                        | v1.1.4  | Hexnet111       |
-| [TerminalApi](https://github.com/NotAtomicBomb/TerminalApi)                                | v1.5.0  | NotAtomicBomb   |
-| YippeeMod                                                                                  | v1.2.3  | sunnobunno      |
-| YippeeScrap                                                                                | v1.0.5  | AinaVT          |
+| Mod/Plugin                                                                                 | Version | Author          | Source                                                                                        |
+| ------------------------------------------------------------------------------------------ | ------- | --------------- | --------------------------------------------------------------------------------------------- |
+| [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                         | v5.4.21 | Various         | [github](https://github.com/BepInEx/BepInEx)                                                  |
+| [CirnoFumoScrap](https://github.com/Badhamknibbs/Cirno-Fumo-Scrap-mod_LC)                  | v2.0.1  | Badham_Mods     | [thunderstore](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap)         |
+| [Coroner](https://github.com/EliteMasterEric/Coroner)                                      | v1.5.3  | EliteMasterEric | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner)            |
+| [FlashlightFix](https://github.com/Shaosil/LethalCompanyMods-FlashlightFix)                | v1.0.5  | ShaosilGaming   | [thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix)        |
+| [FlashlightToggle](https://github.com/redassser/Lc-Flashlight)                             | v1.5.0  | Renegades       | [thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)         |
+| [Fuzzy_chaos_gang_Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)      | v2.0.5  | Degenerates     | [thunderstore](https://thunderstore.io/c/lethal-company/p/Degenerates/Fuzzy_chaos_gang_Suits) |
+| [GeneralImprovements](https://github.com/Shaosil/LethalCompanyMods-GeneralImprovements)    | v1.0.15 | ShaosilGaming   | [thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements)  |
+| [Groan_Tube_Scrap](https://github.com/ChrisFeline)                                         | v1.0.1  | Kittenji        | [thunderstore](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap)          |
+| [Helmet_Cameras](https://github.com/The0therOne/Helmet_Cameras)                            | v2.1.5  | RickArg         | [thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras)             |
+| [HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher)          | v0.0.5  | Evaisa          | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)              |
+| HotbarPlus                                                                                 | v1.5.1  | FlipMods        | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)                |
+| [JesterFree](https://github.com/AriDeve/JesterFree)                                        | v2.0.0  | AriDev          | [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree)                  |
+| [JetpackWarning](https://github.com/Hamunii/JetpackWarning)                                | v2.2.0  | Hamunii         | [thunderstore](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning)             |
+| [LateCompany](https://github.com/ANormalTwig/LC-LateCompany)                               | v1.0.10 | anormaltwig     | [thunderstore](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)            |
+| [LC_API](https://github.com/steven4547466/LC-API)                                          | v3.3.2  | 2018            | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API)                        |
+| [LCSoundTool](https://github.com/no00ob/LCSoundTool)                                       | v1.4.0  | no00ob          | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool)                 |
+| [LethalAutocomplete](https://github.com/IlyaChichkov/LethalAutocompleteMod)                | v0.4.1  | red_eye         | [thunderstore](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete)         |
+| [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)             | v0.4.4  | Rune580         | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils)   |
+| [LethalConfig](https://github.com/AinaVT/LethalConfig)                                     | v1.3.4  | AinaVT          | [thunderstore](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig)                |
+| [LethalLib](https://github.com/EvaisaDev/LethalLib)                                        | v0.11.2 | Evaisa          | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)                   |
+| [LethalThings](https://github.com/EvaisaDev/LethalThings)                                  | v0.9.4  | Evaisa          | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings)                |
+| LetMeLookDown                                                                              | v1.0.1  | FlipMods        | [thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)             |
+| MoreCompany                                                                                | v1.7.4  | notnotnotswipez | [thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)        |
+| [More_Emotes](https://www.youtube.com/watch?v=GMgsFZ4rkEI)                                 | v1.3.3  | Sligili         | [thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)                |
+| MoreHead                                                                                   | v1.2.3  | Mhz             | [thunderstore](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead)                       |
+| MoreItems                                                                                  | v1.0.2  | Drakorle        | [thunderstore](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems)                 |
+| [More_Suits](https://github.com/x753/Lethal-Company-More-Suits)                            | v1.4.1  | x753            | [thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)                    |
+| [PersistentPurchases](https://github.com/NotSoEpic/PeristentPurchases)                     | v1.1.0  | TheBeeTeam      | [thunderstore](https://thunderstore.io/c/lethal-company/p/TheBeeTeam/PersistentPurchases)     |
+| [Runtime_Netcode_Patcher](https://github.com/NicholasScott1337/RuntimeNetcodeRPCValidator) | v0.2.5  | Ozone           | [thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher)      |
+| [ShipLoot](https://github.com/tinyhoot/ShipLoot)                                           | v1.0.0  | tinyhoot        | [thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot)                  |
+| [Skinwalkers](https://rugbug.net/skinwalkers)                                              | v2.0.6  | RugbugRedfern   | [thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers)          |
+| [SlimeTamingFix](https://github.com/EliteMasterEric/SlimeTamingFix)                        | v1.0.2  | EliteMasterEric | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/SlimeTamingFix)     |
+| [SuitSaver](https://github.com/Hexnet111/SuitSaver)                                        | v1.1.4  | Hexnet111       | [thunderstore](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver)                |
+| [TerminalApi](https://github.com/NotAtomicBomb/TerminalApi)                                | v1.5.0  | NotAtomicBomb   | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi)          |
+| TooManySuits                                                                               | v1.0.5  | Verity          | [thunderstore](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)                |
+| YippeeMod                                                                                  | v1.2.3  | sunnobunno      | [thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod)               |
+| YippeeScrap                                                                                | v1.0.5  | AinaVT          | [thunderstore](https://thunderstore.io/c/lethal-company/p/AinaVT/YippeeScrap)                 |
 
 *Autogenerated using mod metadata downloaded via [thunderstore](https://thunderstore.io/c/lethal-company)*

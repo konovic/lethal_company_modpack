@@ -1,3 +1,35 @@
+v3.1.0
+Several version bumps
+
+Added mods:
++FlashlightFix
++Fuzzy_chaos_gang_Suits
++GeneralImprovements
++Groan_Tube_Scrap
++LethalThings
++TooManySuits
+
+Removed mods:
+-FastSwitchPlayerViewInRadar (Replaced with GeneralImprovements)
+-LethalLevelLoader
+-SCPFoundationDungeon
+-ScalingStartCredits (Replaced with GeneralImprovements)
+-SkipToMultiplayerMenu (Replaced with GeneralImprovements)
+
+Config changes:
+GeneralImprovements
+Reverted some major changes to vanilla behavior
+Left most bug fixes and many QoL tweaks enabled
+
+Helmet_Cameras
+Reverted back to more conservative values to potentially avoid lag in larger lobbies
+	monitorResolution  0 ->  3
+	renderDistance	  20 -> 80
+	cameraFps	  60 -> 30
+
+LethalThings
+Changed new decor to not spawn by default
+---
 v3.0.1
 Forgot dependencies for SCPDungeon and MoreEmotes
 ---
