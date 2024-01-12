@@ -43,7 +43,7 @@ These steps can be performed again to select the `None` branch to update the gam
 Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
 
 #### Install
-This guide assumes you're using a fresh install of Lethal Company. If you're updating this modpack, see the [**Update**](https://github.com/konovic/lethal_company_modpack#update) section below.\
+This guide assumes you're using a fresh install of Lethal Company. If you're updating this modpack, see the [**Update**](#update) section below.\
 If you have a different modpack installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
 2. Unzip/open `lethal_company_modpack-v3.1.0.zip`.
@@ -58,7 +58,7 @@ Lethal Company\<all other base game files>
 4. For Proton/Steamdeck users only: BepInEx works with Proton by adding\
 `WINEDLLOVERRIDES="winhttp.dll=n,b" %command%`\
 to Lethal Company's Steam launch options.
-5. If you were performing an [Update](https://github.com/konovic/lethal_company_modpack#update), return to step 6.
+5. If you were performing an [Update](#update), return to step 6.
 
 #### Update
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
@@ -67,7 +67,7 @@ to Lethal Company's Steam launch options.
 3. Perform the following if you have modified any files in `BepInEx\plugins`.
     1. Backup any folders with manual modifications (e.g. `BepInEx\plugins\More_Suits\moresuits` if you added a `!less-suits.txt` file).
 4. **Delete the existing** `BepInEx` **folder.**
-5. Follow the [installation steps](https://github.com/konovic/lethal_company_modpack#modpack) as above.
+5. Follow the [installation steps](#modpack) as above.
 6. If you performed step 2.i, copy the `config` folder back into the `Lethal Company\BepInEx` folder. If you're not sure, you probably want to overwrite the modpack's default config files.
 7. If you performed step 3.i, restore any additional files/folders. Take care when copying files from older mod versions to newer mod versions.
 
