@@ -1,7 +1,6 @@
 # Lethal Company Modpack
 Personal modpack for Lethal Company v49.\
 All rights held by the respective mod authors.
-Testing: [Install](#install)
 
 #### A note about r2modman
 r2modman support has been dropped as it added extra complexity and stability issues between those installing manually and those using the mod manager.\
