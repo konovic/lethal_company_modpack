@@ -61,7 +61,7 @@ to Lethal Company's Steam launch options.
 ## Mod List
 | Mod/Plugin                                                                                 | Version | Author          | Source                                                                                        |
 | ------------------------------------------------------------------------------------------ | ------- | --------------- | --------------------------------------------------------------------------------------------- |
-| [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                         | v5.4.21 | Various         | [github](https://github.com/BepInEx/BepInEx)                                                  |
+| [BepInEx](https://github.com/BepInEx/BepInEx)                                              | v5.4.21 | Various         | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                             |
 | [CirnoFumoScrap](https://github.com/Badhamknibbs/Cirno-Fumo-Scrap-mod_LC)                  | v2.0.1  | Badham_Mods     | [thunderstore](https://thunderstore.io/c/lethal-company/p/Badham_Mods/CirnoFumoScrap)         |
 | [Coroner](https://github.com/EliteMasterEric/Coroner)                                      | v1.5.3  | EliteMasterEric | [thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner)            |
 | [FlashlightFix](https://github.com/Shaosil/LethalCompanyMods-FlashlightFix)                | v1.0.5  | ShaosilGaming   | [thunderstore](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix)        |
