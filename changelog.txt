@@ -1,3 +1,11 @@
+v3.2.0
+Bad changelog edition
+
+Updated existing mods
+Removed some unneeded mods (some replaced by LethalUtilities)
+Added several new suits, some content mods, and LethalUtilities for some enhancements
+
+---
 v3.1.0
 Several version bumps
 
