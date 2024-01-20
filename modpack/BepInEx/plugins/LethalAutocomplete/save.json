@@ -2793,5 +2793,11 @@
   ],
   "History": {
     "value": []
-  }
+  },
+  "CommandsBlacklist": [
+    "IgnoreMe"
+  ],
+  "HistoryBlacklist": [
+    "DontSave"
+  ]
 }

@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 4239389020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfa8c871e2d06dfe41e15c9abeb87231
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 322eec3148ba5aa226f1738709417314
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bfa8c871e2d06dfe41e15c9abeb87231
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 722984973, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce39c27a210653a4ea57dba6e839cd1b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: -1646501843, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: -487851603, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+Assets:
+- Assets/Mods/Yippee/Sprites/ScrapItemIcon2.png
+- Assets/Mods/Yippee/AudioClips/soft_drop.ogg
+- Packages/com.unity.render-pipelines.high-definition/Runtime/Material/Lit/Lit.shader
+- Assets/Mods/Yippee/AudioClips/yippee.ogg
+- Assets/Mods/Yippee/AudioClips/yippee_far.ogg
+- Assets/Mods/Yippee/Yippee.prefab
+- Assets/Mods/Yippee/Model/yippee.fbx
+- Assets/Mods/Yippee/Yippee.asset
+- Assets/Mods/Yippee/AudioClips/squeak.ogg
+- Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDMaterial.mat
+- Assets/Mods/Yippee/icon.png
+- Assets/Mods/Yippee/Model/death.mat
+Dependencies: []
