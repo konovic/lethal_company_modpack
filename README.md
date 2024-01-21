@@ -40,7 +40,7 @@ These steps can be performed again to select the `None` branch to update the gam
 ## MODPACK
 
 ### Download
-Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `Source code (zip)`.
+Navigate to the [latest release](https://github.com/konovic/lethal_company_modpack/releases/latest) for this repository and download `lethal_company_modpack-v3.3.0.zip`.
 
 ### Install
 This guide assumes you're using a fresh install of Lethal Company. If you're updating this modpack, see the [**Update**](#update) section below.\
