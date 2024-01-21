@@ -46,8 +46,8 @@ Navigate to the [latest release](https://github.com/konovic/lethal_company_modpa
 This guide assumes you're using a fresh install of Lethal Company. If you're updating this modpack, see the [**Update**](#update) section below.\
 If you have a different modpack installed, backup your `BepInEx` folder somewhere else and remove it from the `Lethal Company` folder.
 1. Locate and open the Lethal Company installation folder by opening Steam, right clicking on `Lethal Company`, scrolling over `Manage` and clicking on `Browse Local Files`.
-2. Unzip/open `lethal_company_modpack-v3.2.0.zip`.
-3. Move the contents of the `lethal_company_modpack-v3.2.0\modpack` folder into the `Lethal Company` folder from step 1.\
+2. Unzip/open `lethal_company_modpack-v3.3.0.zip`.
+3. Move the contents of the `lethal_company_modpack-v3.3.0\modpack` folder into the `Lethal Company` folder from step 1.\
 Your `Lethal Company` folder should look like this:
 ```
 Lethal Company\BepInEx\<plugins,config,etc>

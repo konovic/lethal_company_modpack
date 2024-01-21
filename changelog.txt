@@ -1,3 +1,14 @@
+v3.3.0
+Releases now uploaded as a zip file within assets,
+mods themselves will no longer be uploaded directly to the repository
+
+No substantial changes since v3.2.1
+
+---
+v3.2.1
+Hotfix for config files
+
+---
 v3.2.0
 Bad changelog edition
 
