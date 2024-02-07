@@ -126,17 +126,16 @@ to Lethal Company's Steam launch options.
 | YippeeMod                                                                               | v1.2.3  | sunnobunno                 | [thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod)                     |
 | YippeeScrap                                                                             | v1.0.7  | AinaVT                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/AinaVT/YippeeScrap)                       |
 
-| Dependency                                                                              | Version | Author                     | Source                                                                                              |
-| --------------------------------------------------------------------------------------- | ------- | -------------------------- | --------------------------------------------------------------------------------------------------- |
-| [BepInEx](https://github.com/BepInEx/BepInEx)                                           | v5.4.21 | Various                    | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                                   |
-| [HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher)       | v0.0.5  | Evaisa                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)                    |
-| JigglePhysicsPlugin                                                                     | v1.1.2  | HGG                        | [thunderstore](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin)                  |
-| [LC_API](https://github.com/steven4547466/LC-API)                                       | v3.4.5  | 2018                       | [thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API)                              |
-| [LCSoundTool](https://github.com/no00ob/LCSoundTool)                                    | v1.5.1  | no00ob                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool)                       |
-| [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)          | v0.6.3  | Rune580                    | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils)         |
-| [LethalExpansionCore](https://github.com/LethalMods/LethalExpansionCore)                | v1.3.15 | jockie                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore)               |
-| [LethalLib](https://github.com/EvaisaDev/LethalLib)                                     | v0.14.2 | Evaisa                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)                         |
-| NuclearLib                                                                              | v1.0.4  | NiceHairs                  | [thunderstore](https://thunderstore.io/c/lethal-company/p/NiceHairs/NuclearLib)                     |
-| [TerminalApi](https://github.com/NotAtomicBomb/TerminalApi)                             | v1.5.1  | NotAtomicBomb              | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi)                |
+| Dependency                                                                        | Version | Author        | Source                                                                                      |
+| --------------------------------------------------------------------------------- | ------- | ------------- | ------------------------------------------------------------------------------------------- |
+| [BepInEx](https://github.com/BepInEx/BepInEx)                                     | v5.4.21 | Various       | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                           |
+| [HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher) | v0.0.5  | Evaisa        | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)            |
+| JigglePhysicsPlugin                                                               | v1.1.2  | HGG           | [thunderstore](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin)          |
+| [LCSoundTool](https://github.com/no00ob/LCSoundTool)                              | v1.5.1  | no00ob        | [thunderstore](https://thunderstore.io/c/lethal-company/p/no00ob/LCSoundTool)               |
+| [LethalCompany_InputUtils](https://github.com/Rune580/LethalCompanyInputUtils)    | v0.6.3  | Rune580       | [thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils) |
+| [LethalExpansionCore](https://github.com/LethalMods/LethalExpansionCore)          | v1.3.15 | jockie        | [thunderstore](https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore)       |
+| [LethalLib](https://github.com/EvaisaDev/LethalLib)                               | v0.14.2 | Evaisa        | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)                 |
+| NuclearLib                                                                        | v1.0.4  | NiceHairs     | [thunderstore](https://thunderstore.io/c/lethal-company/p/NiceHairs/NuclearLib)             |
+| [TerminalApi](https://github.com/NotAtomicBomb/TerminalApi)                       | v1.5.1  | NotAtomicBomb | [thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi)        |
 
 *Autogenerated using mod metadata downloaded via [thunderstore](https://thunderstore.io/c/lethal-company)*
