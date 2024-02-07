@@ -1,3 +1,19 @@
+v3.5.0
+Removed mods:
+-FlashlightToggle (functionality now part of FlashlightFix, default key is F)
+-LetMeLookDown (functionality now part of GeneralImprovements?)
+-MoreEmotes (replaced by TooManyEmotes)
+-ShipLoot (replaced by BetterItemScan)
+
+Added mods:
++BetterItemScan
++CozyImprovements
++ImmersiveScraps
++MirrorDecor (always available for $0)
++PathfindingLagFix
++TooManyEmotes
++WackyCosmetics (MoreCompany cosmetics options)
+---
 v3.4.0
 Added mods:
 +FumoCompany
