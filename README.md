@@ -127,6 +127,7 @@ to Lethal Company's Steam launch options.
 | YippeeScrap                                                                             | v1.0.7  | AinaVT                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/AinaVT/YippeeScrap)                       |
 
 | Dependency                                                                              | Version | Author                     | Source                                                                                              |
+| --------------------------------------------------------------------------------------- | ------- | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | [BepInEx](https://github.com/BepInEx/BepInEx)                                           | v5.4.21 | Various                    | [github](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)                                   |
 | [HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher)       | v0.0.5  | Evaisa                     | [thunderstore](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)                    |
 | JigglePhysicsPlugin                                                                     | v1.1.2  | HGG                        | [thunderstore](https://thunderstore.io/c/lethal-company/p/HGG/JigglePhysicsPlugin)                  |
