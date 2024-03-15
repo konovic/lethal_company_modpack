@@ -1,3 +1,8 @@
+v3.6.0
+Bumped versions
+GeneralImporovements config now handles teleporter settings exclusively,
+rather than using LethalUtilities
+
 v3.5.0
 Removed mods:
 -FlashlightToggle (functionality now part of FlashlightFix, default key is F)
