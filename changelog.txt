@@ -1,3 +1,8 @@
+v4.0.0
+Update for v50
+Removed all content mods for a more vanilla v50 experience
+Kept many QoL and customization mods that do not impact gameplay
+---
 v3.6.0
 Bumped versions
 GeneralImporovements config now handles teleporter settings exclusively,
